@@ -2,7 +2,8 @@ Systems and platform engineer at HPE.
 
 I am currently building AI ecosystems and platforms for sovereign AI in enterprise, along with developer tools and systems automation.
 
-🐷 One of those projects is **PiG (Pi in Go)**, an HPE-sponsored community owned Go implementation of the [Pi coding-agent harness](https://github.com/earendil-works/pi).
+<img width="2160" height="256" alt="pig-reddit-mobile-2160x256" src="https://github.com/user-attachments/assets/c2c2ed95-3449-4342-8c21-6af5470aaf4d" />
+One of those projects is **PiG (Pi in Go)**, an HPE-sponsored community owned Go implementation of the [Pi coding-agent harness](https://github.com/earendil-works/pi).
 
 I enjoy open source, use it every day, and hope to give more back through code, tools, and sharing what I learn.
 
